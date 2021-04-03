@@ -30,8 +30,6 @@ row_count = 0
 
 # @TODO: Loop over every row in the sales list object
 
-    "01-count" = 0 
-
 
     # Line_Item_ID,Date,Credit_Card_Number,Quantity,Menu_Item
     # @TODO: Initialize sales data variables
